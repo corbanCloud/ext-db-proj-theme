@@ -6,7 +6,8 @@
 ?>
 
 	<footer>
-  	</footer>
+  	
+	</footer>
 
   	<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
   	<script>
